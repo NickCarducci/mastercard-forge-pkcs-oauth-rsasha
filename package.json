@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "mastercard-forge-pkcs-oauth-rsasha",
+    "version": "1.0.0",
+    "description": "generate signature base string",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "author": "Nick Carducci nmcarducci@gmail.com",
+    "license": "",
+    "dependencies": {
+      "express": "^4.18.1",
+      "pm2": "^5.2.0"
+    }
+  }
+  
